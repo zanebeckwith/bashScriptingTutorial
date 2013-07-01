@@ -1,0 +1,11 @@
+This is a basic introduction to scripting using the bash shell language. 
+It was given to students in the CAP (Computational Astronomy and Physics)
+REU program at UNC-CH during the summer of 2013.
+
+An introduction to Linux/Unix command line usage was given to the
+students prior to this tutorial, so knowledge of those basic commands
+(eg. ls and pwd) is assumed.
+
+As the focus of the CAP-REU program was computational science,
+the examples/motivation given in this tutorial lean toward
+that field.
